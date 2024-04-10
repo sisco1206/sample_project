@@ -1,0 +1,1 @@
+echo " My new projet with T-mobile is very interesting and a lot to learn"-
