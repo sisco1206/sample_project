@@ -1,8 +1,4 @@
-def home_cars(model, brand):
+def home_cars(model, brand, year):
     print(f" My new {model} will be the best {brand} cars in all the deals")
 
-<<<<<<< HEAD
-home_cars("Mercedes", "SLK")
-=======
-home_cars("Ford", "Escort") 
->>>>>>> a9e29d9 (new code line)
+home_cars("Ford", "Escort", "2024")
